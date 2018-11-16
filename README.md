@@ -8,6 +8,7 @@ import java.util.*;
 import java.util.Date;
 
 public class kakishk_Account { // default constructor
+	
 	private int id;
 	private double balance;
 	private double interestRate;
