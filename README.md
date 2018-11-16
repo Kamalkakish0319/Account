@@ -65,10 +65,10 @@ public String toString() { //toString Method
 
 }}
 
-
 //Prints the account using a toString Method
 //Prints the account using withdraw/deposit method,
 //along with applying interest
+
  public class kakishk_AccountTester {
 public static void main(String[] args) {
 	kakishk_Account account1 = new kakishk_Account( 1000, 20000, 0.045 );
